@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   font-size: 62.5%;
@@ -20,6 +21,11 @@
   --gris: rgba(130, 130, 130, 1);
   --blanco: rgba(255, 255, 255, 1);
 }
+
+main{
+  background-color: antiquewhite;
+}
+
 /*Espacio para el header*/
 .head {
   display: flex;
